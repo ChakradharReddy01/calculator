@@ -50,9 +50,6 @@ java MyCalculator
 - **MyMemoryButton:** Handles memory functions.
 - **MySpecialButton:** Handles backspace and clear operations.
 
-## Screenshots
-
-*(You may add screenshots here to showcase the calculator UI.)*
 
 ## License
 
